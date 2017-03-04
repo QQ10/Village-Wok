@@ -53,12 +53,11 @@ class LocationDetailsVC: UIViewController {
     
     // website Hyperlink
 
-    @IBAction func websiteHyperlink(_ sender: Any) {
+    @IBAction func villageWokWebsite(_ sender: Any) {
         
-        guard let url = URL(string: "http://www.auburnvillagewok.com" ) else { return }
+           guard let url = URL(string: "http://www.auburnvillagewok.com" ) else { return }
         
-        UIApplication.shared.open(url, options: [:], completionHandler: nil)
-        
+            UIApplication.shared.open(url, options: [:], completionHandler: nil)
         
     }
    

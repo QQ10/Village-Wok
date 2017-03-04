@@ -2349,8 +2349,7 @@
                                         <fontDescription key="fontDescription" name="Avenir-Medium" family="Avenir" pointSize="17"/>
                                         <state key="normal" title="Village Wok Website"/>
                                         <connections>
-                                            <action selector="villageWokWebsite:" destination="v8I-QV-7eI" eventType="touchUpInside" id="NVs-za-s04"/>
-                                            <action selector="websiteHyperlink:" destination="v8I-QV-7eI" eventType="touchUpInside" id="7np-eW-HeQ"/>
+                                            <action selector="villageWokWebsite:" destination="v8I-QV-7eI" eventType="touchUpInside" id="pA6-Xz-CxT"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Mls-6j-mAP">
