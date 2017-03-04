@@ -12,7 +12,6 @@
 		2D59FEC11E67B89B0060989C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D59FEBF1E67B89B0060989C /* LaunchScreen.storyboard */; };
 		2D5DBEF91E6A76DB00A54A84 /* LocationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D5DBEF81E6A76DB00A54A84 /* LocationVC.swift */; };
 		2D5DBEFB1E6A787300A54A84 /* LocationDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D5DBEFA1E6A787300A54A84 /* LocationDetailsVC.swift */; };
-		2D5DBEFE1E6A7D4400A54A84 /* onetwoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D5DBEFD1E6A7D4400A54A84 /* onetwoVC.swift */; };
 		2D6B14DF1E6873A1002FBB35 /* MyTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6B14DE1E6873A1002FBB35 /* MyTabBarController.swift */; };
 		2D9AAD651E6937F5001DB3B4 /* FAQSVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D9AAD641E6937F5001DB3B4 /* FAQSVC.swift */; };
 		2DEA24E11E67B9A300F1DCFB /* VillageWokTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DEA24E01E67B9A300F1DCFB /* VillageWokTVC.swift */; };
@@ -51,7 +50,6 @@
 		2D59FEC21E67B89B0060989C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2D5DBEF81E6A76DB00A54A84 /* LocationVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationVC.swift; sourceTree = "<group>"; };
 		2D5DBEFA1E6A787300A54A84 /* LocationDetailsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationDetailsVC.swift; sourceTree = "<group>"; };
-		2D5DBEFD1E6A7D4400A54A84 /* onetwoVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = onetwoVC.swift; sourceTree = "<group>"; };
 		2D6B14DE1E6873A1002FBB35 /* MyTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTabBarController.swift; sourceTree = "<group>"; };
 		2D9AAD641E6937F5001DB3B4 /* FAQSVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FAQSVC.swift; sourceTree = "<group>"; };
 		2DEA24E01E67B9A300F1DCFB /* VillageWokTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VillageWokTVC.swift; sourceTree = "<group>"; };
@@ -128,7 +126,6 @@
 				2D9AAD641E6937F5001DB3B4 /* FAQSVC.swift */,
 				2D5DBEF81E6A76DB00A54A84 /* LocationVC.swift */,
 				2D5DBEFA1E6A787300A54A84 /* LocationDetailsVC.swift */,
-				2D5DBEFD1E6A7D4400A54A84 /* onetwoVC.swift */,
 				2DEA24EE1E67D61800F1DCFB /* VC In PageVC */,
 			);
 			path = "Village Wok";
@@ -257,7 +254,6 @@
 				2DEA24F21E67D66300F1DCFB /* SecondVC.swift in Sources */,
 				2DEA25101E67D79D00F1DCFB /* SeventeenthVC.swift in Sources */,
 				2DEA25121E67D7AE00F1DCFB /* EighteenthVC.swift in Sources */,
-				2D5DBEFE1E6A7D4400A54A84 /* onetwoVC.swift in Sources */,
 				2DEA24E71E67BFF100F1DCFB /* FoodSectionTVC.swift in Sources */,
 				2DEA24FA1E67D6C200F1DCFB /* SixthVC.swift in Sources */,
 				2DEA24F61E67D69100F1DCFB /* FourthVC.swift in Sources */,
